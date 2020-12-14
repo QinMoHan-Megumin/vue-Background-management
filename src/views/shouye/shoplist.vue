@@ -1,0 +1,6 @@
+<template>
+  <div>
+    <h1>商品列表页</h1>
+  </div>
+</template>
+ 
